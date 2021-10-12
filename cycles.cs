@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -54,8 +54,52 @@ namespace RepeatingMisery
             {
                 Console.Write("{0} ",j);
             }
-            Console.ReadLine();
             Console.WriteLine("\n");
+            /*int[] nums = new int[5]; 
+            for (int i = 0; i < 5; i++)
+            {
+                Console.WriteLine("Write a number");
+                nums[0] = int.Parse(Console.ReadLine());
+            }
+            int sum = 0;
+            int mult = 1;
+            foreach (var q in nums)
+            {
+                sum += q;
+                mult = mult * q;
+            }
+            Console.WriteLine($"The sum is {sum}, the average is {sum / 5}, the multiplication is {mult}");*/
+
+            do
+            {
+                Console.WriteLine("Buy my damn elephant");
+            } while (Console.ReadLine()!="elephant");
+            Console.WriteLine("Thank you\n");
+
+            int compNum = rng.Next(1, 25);
+            for (int i = 0; i < 5; i++)
+            {
+                Console.WriteLine($"Guess the number that the computer generates between 1-25, but be careful you only have {i} tries!");
+                if (int.Parse(Console.ReadLine())==compNum)
+                {
+                    Console.WriteLine("You WIN!!!");
+                    break;
+                }
+                else
+                {
+                    Console.WriteLine("Try again, we know You can do it.");
+                }
+            }
+            Console.ReadKey();
+
+            //int 
+            //for (int i = 0; i < 4; i++)
+            //{
+
+            //}
+
+
+            //Console.ReadLine();
         }
     }
 }
