@@ -5,3 +5,10 @@ C:\Users\opilane\source\repos\RepeatingMisery\bin\Debug\RepeatingMisery.exe
 C:\Users\opilane\source\repos\RepeatingMisery\bin\Debug\RepeatingMisery.pdb
 C:\Users\opilane\source\repos\RepeatingMisery\obj\Debug\RepeatingMisery.exe
 C:\Users\opilane\source\repos\RepeatingMisery\obj\Debug\RepeatingMisery.pdb
+C:\Users\opilane\Source\Repos\MiseryRepeats\RepeatingMisery\bin\Debug\RepeatingMisery.exe.config
+C:\Users\opilane\Source\Repos\MiseryRepeats\RepeatingMisery\bin\Debug\RepeatingMisery.exe
+C:\Users\opilane\Source\Repos\MiseryRepeats\RepeatingMisery\bin\Debug\RepeatingMisery.pdb
+C:\Users\opilane\Source\Repos\MiseryRepeats\RepeatingMisery\obj\Debug\RepeatingMisery.csprojAssemblyReference.cache
+C:\Users\opilane\Source\Repos\MiseryRepeats\RepeatingMisery\obj\Debug\RepeatingMisery.csproj.CoreCompileInputs.cache
+C:\Users\opilane\Source\Repos\MiseryRepeats\RepeatingMisery\obj\Debug\RepeatingMisery.exe
+C:\Users\opilane\Source\Repos\MiseryRepeats\RepeatingMisery\obj\Debug\RepeatingMisery.pdb
